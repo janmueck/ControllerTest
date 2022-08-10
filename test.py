@@ -4,7 +4,6 @@ import tkinter as tk
 from tkinter import font as tkFont
 from tkinter import ttk
 import time 
-import re
 ADRESS='/tmp/MOsoMMLh9a'
 
 
