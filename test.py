@@ -146,7 +146,7 @@ class UI():
         self.frm.rowconfigure(2, weight=0)
 
 
-        self.text=tk.Text(self.frm,font=("Helvetica", 32))
+        self.text=tk.Text(self.frm,font=("Helvetica", 12))
         self.text.grid(column=0,row=0,sticky=tk.NSEW)
         # fontExample = tkFont.Font(family="Arial", size=16, weight="bold", slant="italic")
         # self.text.configure()
